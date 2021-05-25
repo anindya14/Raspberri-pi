@@ -4,3 +4,10 @@ In raspberri pi terminal type
 2. select interface options
 3. select SSH and yes to enable it
 4. Restart to get the sshd service running
+
+
+Login with 
+
+ssh pi@<ip>
+
+<pass>
